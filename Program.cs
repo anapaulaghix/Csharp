@@ -6,27 +6,25 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            int n1, n2, nmenor, nmaior;
-            Console.Write("Digite um número: ");
-            n1 = int.Parse(Console.ReadLine());
-
-            Console.Write("Digite outro número: ");
-            n2 = int.Parse(Console.ReadLine()); 
-            
-            if (n1 > n2){
-                nmaior = n1;
-                nmenor = n2;
-            }else{
-                nmaior = n2;
-                nmenor = n1;
-            }
-            while (nmaior >= nmenor)
+            int n=0, r=0;
+            string op= "s";
+            while (op == "s")
             {
-                if (nmaior % 2 != 0)
-                {
-                    Console.WriteLine(nmaior);
-                }
-               nmaior--;
+              Console.WriteLine("Verifica se o número informado é par ou impar");
+              Console.Write("Informe um número:");  
+              n= Convert.ToInt32(Console.ReadLine());
+              if (r= n % 2 == 0)
+              {
+                  Console.WriteLine("O número informado é PAR!");
+              }
+              else
+              {
+                  Console.WriteLine("O número informado é IMPAR!");
+              }
+              Console.WriteLine("Deseja continuar? [s/n]");
+              op= Console.ReadLine();
+            }
+
         }
 
     }
