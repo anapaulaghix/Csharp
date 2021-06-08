@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\ref\Csharp.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\bin\Debug\net5.0\Csharp.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\ref\Csharp.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\c#.ds\Csharp\obj\Debug\net5.0\Csharp.genruntimeconfig.cache
