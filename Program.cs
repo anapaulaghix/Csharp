@@ -23,8 +23,8 @@ namespace Csharp
               }
               Console.WriteLine("Deseja continuar? [s/n]");
               op= Console.ReadLine();
+              op= op.ToLower();
             }
-
         }
 
     }
